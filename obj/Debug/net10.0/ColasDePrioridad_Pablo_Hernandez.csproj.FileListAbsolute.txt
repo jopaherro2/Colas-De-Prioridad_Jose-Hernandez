@@ -1,0 +1,15 @@
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\bin\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.exe
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\bin\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.deps.json
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\bin\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.runtimeconfig.json
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\bin\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.dll
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\bin\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.pdb
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\obj\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\obj\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.AssemblyInfoInputs.cache
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\obj\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.AssemblyInfo.cs
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\obj\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\obj\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.dll
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\obj\Debug\net10.0\refint\ColasDePrioridad_Pablo_Hernandez.dll
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\obj\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.pdb
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\obj\Debug\net10.0\ColasDePrioridad_Pablo_Hernandez.genruntimeconfig.cache
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\obj\Debug\net10.0\ref\ColasDePrioridad_Pablo_Hernandez.dll
+C:\Users\jopah\source\repos\ColasDePrioridad_Pablo_Hernandez\obj\Debug\net10.0\ColasDeP.1492349B.Up2Date
